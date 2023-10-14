@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 style="font-size: 36px;">Desafio proposto</h1>
+  <h1 style="font-size: 36px;">Desafio proposto pela Alura</h1>
 </p>
 
 Vamos implementar uma aplicação para cadastrar nossas músicas e podcasts preferidos, modelando as classes utilizando os conceitos de orientação a objetos: abstração, herança, encapsulamento e polimorfismo.
